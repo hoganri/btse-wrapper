@@ -1,5 +1,5 @@
 # btse-wrapper
-Wrapper for the BTSE trading platform API
+REST API wrapper for the BTSE trading platform
 
 Start building or migrate your trading algorithms to the BTSE platform
 
